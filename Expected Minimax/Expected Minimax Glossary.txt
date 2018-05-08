@@ -1,0 +1,4 @@
+Terminal - Leaf node
+MAX - Upward pointing triangle. Always takes the highest value of all its children.
+EXP - Downward pointing triangle(or circle). Returns the sum of its children multiplied by a probability for each child.
+Child - Bottom right or bottom left neighbor of a node in a tree.
